@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlDataWebsiteTool", "CrawlDataWebsiteTool\CrawlDataWebsiteTool.csproj", "{D2162BBA-3AA6-4589-B361-58A90C67CCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2162BBA-3AA6-4589-B361-58A90C67CCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2162BBA-3AA6-4589-B361-58A90C67CCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2162BBA-3AA6-4589-B361-58A90C67CCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2162BBA-3AA6-4589-B361-58A90C67CCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC667AF-1D74-44CB-9B88-DA50D3F27A06}
+	EndGlobalSection
+EndGlobal
